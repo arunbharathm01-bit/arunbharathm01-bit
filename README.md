@@ -133,23 +133,7 @@ Machine Learning & AI experiments.
 
 </p>
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
-
-# 💡 Quote
-
-> **"Building apps today. Building an operating system tomorrow."**
-
----
+--
 
 <p align="center">
 
