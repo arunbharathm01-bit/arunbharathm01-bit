@@ -14,8 +14,7 @@ AI & Data Science Student • App Developer • Future OS Developer 🚀
 
 - 🎓 AI & Data Science Engineering Student
 - 💻 Passionate about App Development
-- 🌱 Currently learning **Flutter, Firebase, Python & Data Structures**
-- 🚀 Goal: Build my own Operating System
+- 🌱 Currently learning
 - 📚 Always learning something new
 - ⚡ I enjoy building projects more than just studying theory
 
@@ -23,9 +22,7 @@ AI & Data Science Student • App Developer • Future OS Developer 🚀
 
 # 🚀 Current Focus
 
-- 📱 Building Flutter Apps
-- 🔥 Learning Firebase
-- 🐍 Improving Python Skills
+- 🐍 Improving Skills
 - 🌐 Growing my GitHub Portfolio
 - 🖥️ Exploring Operating System Development
 
@@ -34,15 +31,15 @@ AI & Data Science Student • App Developer • Future OS Developer 🚀
 # 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="blank">
+<a href="www.linkedin.com/in/arun-bharath-9b37a1390" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:Arunbharathm01@gmail.com">
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/arunbharathm01-bit">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 </p>
