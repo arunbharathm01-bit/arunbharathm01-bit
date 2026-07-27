@@ -5,7 +5,7 @@ AI & Data Science Student • App Developer • Future OS Developer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student; Junior+Developer;App+Development; Database;Building+Apps; Learning+about+Operating+System+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student; Junior+Developer;App+Development; Database;Building+Apps; Learning+about+Operating+System+Development"; alt="Typing SVG" />
 </p>
 
 ---
