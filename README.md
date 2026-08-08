@@ -12,6 +12,20 @@
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 
+<div align="center">
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║                    I M M O R T A L   A R U N                        ║
+║                                                                      ║
+║              AI & Data Science Student                              ║
+║              Linux • Python • AI • Data                              ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+</pre>
+
+<pre>
 ┌──(arun㉿github)-[~]
 └─$ ./boot.sh
 
@@ -20,23 +34,16 @@
 [ OK ] Connecting to GitHub...
 [ OK ] Terminal session established.
 
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                 I M M O R T A L   A R U N                   │
-│                                                              │
-│       AI & Data Science Student • Linux Enthusiast           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-
-┌─[ SYSTEM ]
-│
-├── user       : arunbharathm01-bit
-├── hostname   : github.com
-├── shell      : bash
-├── os         : Arch Linux
-├── editor     : VS Code
-├── status     : ONLINE
-│
-└─[ SESSION READY ]
+┌──────────────────────────────────────────────────────────┐
+│ USER       : arunbharathm01-bit                          │
+│ HOST       : github.com                                  │
+│ OS         : Arch Linux                                 │
+│ SHELL      : bash                                       │
+│ EDITOR     : VS Code                                    │
+│ STATUS     : ONLINE                                     │
+└──────────────────────────────────────────────────────────┘
 
 $ _
+</pre>
+
+</div>
