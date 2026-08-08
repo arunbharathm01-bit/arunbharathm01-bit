@@ -1,74 +1,42 @@
+<div align="center">
+
 ```text
-┌──(arun㉿github)-[~/profile]
-└─$ whoami
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   ██╗███╗   ███╗███╗   ███╗ ██████╗ ██████╗ ████████╗ █████╗ ██╗    ║
+║   ██║████╗ ████║████╗ ████║██╔═══██╗██╔══██╗╚══██╔══╝██╔══██╗██║    ║
+║   ██║██╔████╔██║██╔████╔██║██║   ██║██████╔╝   ██║   ███████║██║    ║
+║   ██║██║╚██╔╝██║██║╚██╔╝██║██║   ██║██╔══██╗   ██║   ██╔══██║██║    ║
+║   ██║██║ ╚═╝ ██║██║ ╚═╝ ██║╚██████╔╝██║  ██║   ██║   ██║  ██║███████╗
+║   ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 
-        _                     _
-   __ _ _ __ _   _ _ __      / \
-  / _` | '__| | | | '_ \    / _ \
- | (_| | |  | |_| | | | |  / ___ \
-  \__,_|_|   \__,_|_| |_| /_/   \_\
+┌──(arun㉿github)-[~]
+└─$ ./boot.sh
 
-Immortal Arun
-────────────────────────────────────────────
+[ OK ] Initializing Immortal Arun...
+[ OK ] Loading profile...
+[ OK ] Connecting to GitHub...
+[ OK ] Terminal session established.
 
-$ neofetch
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│                 I M M O R T A L   A R U N                   │
+│                                                              │
+│       AI & Data Science Student • Linux Enthusiast           │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
 
-OS        : Arch Linux
-Shell     : Bash
-Role      : AI & Data Science Student
-Location  : India
-Status    : Learning → Building → Breaking → Fixing
+┌─[ SYSTEM ]
+│
+├── user       : arunbharathm01-bit
+├── hostname   : github.com
+├── shell      : bash
+├── os         : Arch Linux
+├── editor     : VS Code
+├── status     : ONLINE
+│
+└─[ SESSION READY ]
 
-────────────────────────────────────────────
-$ cat ~/skills.txt
-
-Python          █████████░░
-SQL             ███████░░░░
-Git/GitHub      ████████░░░
-Linux           ████████░░░
-Web Development ██████░░░░░
-Data Science    ██████░░░░░
-AI/ML           █████░░░░░░
-Flutter         ████░░░░░░░
-
-────────────────────────────────────────────
-$ ls ~/interests
-
-📁 artificial-intelligence
-📁 data-science
-📁 python
-📁 linux
-📁 cybersecurity
-📁 app-development
-📁 web-development
-📁 hardware
-📁 open-source
-
-────────────────────────────────────────────
-$ cat ~/current-project.txt
-
-> Building projects.
-> Learning full-stack development.
-> Exploring AI & Data Science.
-> Experimenting with Linux and open-source tools.
-
-────────────────────────────────────────────
-$ git status
-
-On branch main
-
-nothing to commit,
-working tree clean.
-
-────────────────────────────────────────────
-$ echo $MOTTO
-
-"Learn it. Build it. Break it. Fix it."
-
-────────────────────────────────────────────
-$ exit
-
-Connection closed.
-```
-```
-```
+$ _
