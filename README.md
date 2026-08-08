@@ -1,76 +1,74 @@
-<h1 align="center">Hi 👋, I'm Arun</h1>
+```text
+┌──(arun㉿github)-[~/profile]
+└─$ whoami
 
-<h3 align="center">
-AI & Data Science Student • Full-Stack App Developer • Linux Enthusiast
-</h3>
+        _                     _
+   __ _ _ __ _   _ _ __      / \
+  / _` | '__| | | | '_ \    / _ \
+ | (_| | |  | |_| | | | |  / ___ \
+  \__,_|_|   \__,_|_| |_| /_/   \_\
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Student;Full-Stack+App+Developer;Flutter+%7C+Firebase+%7C+Python;Learning+Systems+Programming;Building+Useful+Projects" />
-</p>
+Immortal Arun
+────────────────────────────────────────────
 
----
+$ neofetch
 
-# 👨‍💻 About Me
+OS        : Arch Linux
+Shell     : Bash
+Role      : AI & Data Science Student
+Location  : India
+Status    : Learning → Building → Breaking → Fixing
 
-- 🎓 B.Tech AI & Data Science Student
-- 📱 Building Flutter & Firebase applications
-- 🐧 Daily Linux user (Arch)
-- 🧠 Learning Python, SQL, Networking & Operating Systems
-- 🚀 Goal: Build scalable software and eventually work on operating systems
+────────────────────────────────────────────
+$ cat ~/skills.txt
 
----
+Python          █████████░░
+SQL             ███████░░░░
+Git/GitHub      ████████░░░
+Linux           ████████░░░
+Web Development ██████░░░░░
+Data Science    ██████░░░░░
+AI/ML           █████░░░░░░
+Flutter         ████░░░░░░░
 
-# 🛠 Tech Stack
+────────────────────────────────────────────
+$ ls ~/interests
 
-**Languages**
+📁 artificial-intelligence
+📁 data-science
+📁 python
+📁 linux
+📁 cybersecurity
+📁 app-development
+📁 web-development
+📁 hardware
+📁 open-source
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,dart,cpp" />
-</p>
+────────────────────────────────────────────
+$ cat ~/current-project.txt
 
-**Frameworks & Tools**
+> Building projects.
+> Learning full-stack development.
+> Exploring AI & Data Science.
+> Experimenting with Linux and open-source tools.
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,mysql,sqlite,git,github,vscode,androidstudio,linux" />
-</p>
+────────────────────────────────────────────
+$ git status
 
----
+On branch main
 
-# 📌 Projects
+nothing to commit,
+working tree clean.
 
-- 💬 **Linkenger** – Realtime chat application using Firebase
-- 📝 **Notes App**
-- 🌦 **Weather App**
-- 📊 **Screen Time Tracker** (In Progress)
-- 🤖 AI & Machine Learning experiments
+────────────────────────────────────────────
+$ echo $MOTTO
 
----
+"Learn it. Build it. Break it. Fix it."
 
-# 📈 GitHub Stats
+────────────────────────────────────────────
+$ exit
 
-> Replace **YOUR_USERNAME** below with **arunbharathm01-bit**.
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arunbharathm01-bit&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunbharathm01-bit&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=arunbharathm01-bit&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=arunbharathm01-bit&theme=tokyo-night"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arunbharathm01-bit&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-### 📫 Connect
-
-- GitHub: https://github.com/arunbharathm01-bit
-- LinkedIn: https://www.linkedin.com/in/arun-bharath-9b37a1390
-- Email: Arunbharathm01@gmail.com
+Connection closed.
+```
+```
+```
