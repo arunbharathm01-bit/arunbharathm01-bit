@@ -11,39 +11,3 @@
 ║   ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
-
-<div align="center">
-
-<pre>
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║                    I M M O R T A L   A R U N                        ║
-║                                                                      ║
-║              AI & Data Science Student                              ║
-║              Linux • Python • AI • Data                              ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-</pre>
-
-<pre>
-┌──(arun㉿github)-[~]
-└─$ ./boot.sh
-
-[ OK ] Initializing Immortal Arun...
-[ OK ] Loading profile...
-[ OK ] Connecting to GitHub...
-[ OK ] Terminal session established.
-
-┌──────────────────────────────────────────────────────────┐
-│ USER       : arunbharathm01-bit                          │
-│ HOST       : github.com                                  │
-│ OS         : Arch Linux                                 │
-│ SHELL      : bash                                       │
-│ EDITOR     : VS Code                                    │
-│ STATUS     : ONLINE                                     │
-└──────────────────────────────────────────────────────────┘
-
-$ _
-</pre>
-
-</div>
